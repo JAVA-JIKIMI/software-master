@@ -40,9 +40,9 @@
 최종 테스트 단계의 소요 시간이 큼, 기술적 배경이 없는 경우, 의사 결정권자의 기술 부재
 
 * 해결방안
-- 스크럼 도입(https://www.atlassian.com/ko/software/jira/agile), 
-- 스탠딩업 미팅
-- 백로그 관리툴(Version Control) 사용 등 이런 툴 사용법 익히는 일은 이제는 기본. 이것만 가지고 제품 품질이 좋아지거나 개발자들의 역량이 높아질 수 없음.    
+> 스크럼 도입(https://www.atlassian.com/ko/software/jira/agile), 
+> 스탠딩업 미팅
+> 백로그 관리툴(Version Control) 사용 등 이런 툴 사용법 익히는 일은 이제는 기본. 이것만 가지고 제품 품질이 좋아지거나 개발자들의 역량이 높아질 수 없음.    
 
 ## Chapter 3
 
