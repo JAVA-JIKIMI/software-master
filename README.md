@@ -44,5 +44,5 @@
 - [클린 아키텍처](http://www.yes24.com/Product/Goods/77283734)
 - [토비의 스프링 부트 - 인터넷 강의(인프런)](https://www.inflearn.com/course/%ED%86%A0%EB%B9%84-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%9D%B4%ED%95%B4%EC%99%80%EC%9B%90%EB%A6%AC)
 - [개발자 원칙](http://www.yes24.com/Product/Goods/115852769)
-- [카프카 핵심 가이드 : 대규모 실시간 데이터와 스트림 처리][https://book.interpark.com/product/BookDisplay.do?_method=Detail&sc.shopNo=0000400000&dispNo=&sc.prdNo=356723754&sc.saNo=002001023001]
-- [가상 면접 사례로 배우는 대규모 시스템 설계 기초][https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352629346&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001]
+- [카프카 핵심 가이드 : 대규모 실시간 데이터와 스트림 처리](https://book.interpark.com/product/BookDisplay.do?_method=Detail&sc.shopNo=0000400000&dispNo=&sc.prdNo=356723754&sc.saNo=002001023001)
+- [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352629346&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001)
